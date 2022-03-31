@@ -18,11 +18,18 @@ form {
 }
 #evaluation-form {
     flex-direction: column;
+    border: 1px solid black;
 }
 #trybewarts-forms-logo {
     height: 500px;
 }
 #names {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    border: 1px solid red;
+}
+#label-content {
+    display: flex;
+    flex-direction: column;
+    border: 1px  solid black;
 }
