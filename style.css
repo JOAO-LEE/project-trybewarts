@@ -9,3 +9,11 @@
     display: flex;
     flex-direction: column;
 }
+main{
+    display: flex;
+}
+form {
+    display: flex;
+    border: solid black 1px;
+    width: 675px; 
+}
