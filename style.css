@@ -22,3 +22,7 @@ form {
 #trybewarts-forms-logo {
     height: 500px;
 }
+#names {
+    display: flex;
+    flex-direction: row;
+}
