@@ -49,3 +49,8 @@ form {
 #text-block {
   width: 50%;
 }
+
+#agreement-box{
+    display: flex;
+
+}
