@@ -32,6 +32,6 @@ function counter() {
 }
 inputTextArea.addEventListener('keyup', counter);
 
-formInfo.addEventListener('submit', function(event){
-  event.preventDefault()
-})
+// formInfo.addEventListener('submit', function(event){
+//   event.preventDefault()
+// })
