@@ -15,7 +15,7 @@ function login() {
   }
 }
 btn.addEventListener('click', login);
-const submitButton = document.querySelector('#submit-btn')
+const submitButton = document.querySelector('#submit-btn');
 const agreementButton = document.querySelector('#agreement');
 
 function buttonAppearance() {
